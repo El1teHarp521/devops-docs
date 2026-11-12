@@ -12,4 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://El1teHarp521.github.io/devops-docs/`.
-[Сломанная ссылка](missing-page.md)
